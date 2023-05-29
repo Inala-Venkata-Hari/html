@@ -18,12 +18,12 @@ h1 {
   float: left;
   margin-bottom: 20px;
   border: 1px solid black;
-  background-color: #F5F5F5;
+  background-color: #85F4F5;
   position: relative;
 }
 
 .section-title {
-  background-color: #DDDDDD;
+  background-color: #DD00DD;
   padding: 10px;
   position: absolute;
   top: 0;
